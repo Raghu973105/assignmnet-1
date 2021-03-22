@@ -1,0 +1,214 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('a.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    position: relative;
+}
+.head{
+    padding-left: 50px;
+    bottom: 550px;
+    color: rgb(25, 42, 169);
+    left: 10px;
+    top: 35px;
+    position: absolute;
+    font-size: 58px;
+    
+
+}
+.h2{
+    padding-left: 150px;
+    bottom: 550px;
+    color: black;
+    top: 185px;
+    position: absolute;
+    font-size: 16px;
+
+}
+.h3{
+    padding-left: 813px;
+    bottom: 550px;
+    color: black;
+    top: 110px;
+    position: absolute;
+    font-size: 9px;
+}
+.h4{
+    padding-left: 930px;
+    bottom: 550px;
+    color: black;
+    top: 310px;
+    position: absolute;
+    font-size: 35px;
+}
+.h5{
+    padding-left: 950px;
+    bottom: 550px;
+    color: black;
+    top: 388px;
+    position: absolute;
+    font-size: 12px;
+}
+.h6{
+    padding-left: 86%;
+    bottom: 550px;
+    color: black;
+    top: 530px;
+    position: absolute;
+    font-size: 12px;
+}
+.h7{
+    padding-left: 792px;
+    bottom: 450px;
+    color: black;
+    top: 329px;
+    position: absolute;
+    font-size: 19px;
+}
+.h8{
+    padding-left: 768px;
+    bottom: 650px;
+    color: black;
+    top: 353px;
+    position: absolute;
+    font-size: 11px;
+}
+.h9{
+    padding-left: 65%;
+    bottom: 580px;
+    color: black;
+    top: 576px;
+    position: absolute;
+    font-size: 10px;
+}
+.h10{
+    padding-left: 36%;
+    bottom: 500px;
+    color: black;
+    top: 564px;
+    position: absolute;
+    font-size: 9px;
+}
+.h11{
+    padding-left: 50px;
+    bottom: 500px;
+    color: black;
+    top: 464px;
+    position: absolute;
+    font-size: 13px;
+}
+.h12{
+    padding-left: 50px;
+    bottom: 500px;
+    color: black;
+    top: 430px;
+    position: absolute;
+    font-size: 20px;
+}
+.h13{
+    padding-left: 110px;
+    bottom: 500px;
+    color: black;
+    top: 304px;
+    position: absolute;
+    font-size: 9px;
+}
+.h14{
+    padding-left: 10px;
+    bottom: 500px;
+    color: black;
+    top: 318px;
+    position: absolute;
+    font-size: 30px;
+}
+.h15{
+    padding-left: 98%;
+    bottom: 500px;
+    color: black;
+    top: 318px;
+    position: absolute;
+    font-size: 35px;
+}
+.h16{
+    padding-left: 5%;
+    bottom: 580px;
+    color: black;
+    top: 638px;
+    position: absolute;
+    font-size: 17px;
+}
+.h17{
+    padding-left: 72%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h18{
+    padding-left: 64%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h19{
+    padding-left: 56%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h20{
+    padding-left: 38%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h21{
+    padding-left: 30%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h22{
+    padding-left: 22%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h23{
+    padding-left: 14%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h24{
+    padding-left: 7%;
+    bottom: 580px;
+    color: black;
+    top: 660px;
+    position: absolute;
+    font-size: 17px;
+}
+.h25{
+    padding-left: 78%;
+    bottom: 550px;
+    color: black;
+    top: 530px;
+    position: absolute;
+    font-size: 20px;
+    transform: rotate(-4deg);
+}
